@@ -1,7 +1,19 @@
-# Tauri + React
+# 🎮 G29 Live2D Steering Controller
 
-This template should help get you started developing with Tauri and React in Vite.
+Use your Logitech G29 Racing Wheel to control a Live2D model in real-time!
 
-## Recommended IDE Setup
+---
 
-- [VS Code](https://code.visualstudio.com/) + [Tauri](https://marketplace.visualstudio.com/items?itemName=tauri-apps.tauri-vscode) + [rust-analyzer](https://marketplace.visualstudio.com/items?itemName=rust-lang.rust-analyzer)
+## 💡 Features
+
+- 🕹️ Real-time G29 steering input mapped to Live2D parameters
+- ✨ Smooth animation with PixiJS + Cubism 4 Live2D integration
+- 🧠 Auto-detects gamepad and updates model each frame
+
+---
+
+## Usage
+
+- v0 build is available in release to try!
+
+# stay tune for more update
