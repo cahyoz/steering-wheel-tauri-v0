@@ -12,8 +12,9 @@ export default function Model() {
 
     const app = new PIXI.Application({
       view: document.createElement("canvas"),
-      resizeTo: window,
       backgroundAlpha: 1,
+      width: 1280,
+      height: 720,
       backgroundColor: 0x04f404,
     });
 
